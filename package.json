@@ -1,0 +1,28 @@
+{
+  "name": "donation",
+  "version": "1.0.0",
+  "description": "donate",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Donation",
+    "api"
+  ],
+  "author": "Hamza",
+  "license": "ISC",
+  "dependencies": {
+    "cloudinary": "^1.11.0",
+    "crypto": "^1.0.1",
+    "db-migrate": "^0.11.11",
+    "express": "^4.16.3",
+    "jsonwebtoken": "^8.2.1",
+    "lodash.escaperegexp": "^4.1.2",
+    "mime": "^2.3.1",
+    "mongoose": "^5.9.25",
+    "morgan": "^1.10.0",
+    "multer": "^1.4.2",
+    "nodemon": "^2.0.4"
+  }
+}
